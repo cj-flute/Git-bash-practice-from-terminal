@@ -17,3 +17,5 @@ add_something()
 check = add_something(10)
 
 typeof(check)
+print("added sth")
+print(2+2)
