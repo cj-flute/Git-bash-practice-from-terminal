@@ -13,3 +13,7 @@ name = "book list"
 
 add_something(name)
 add_something()
+
+check = add_something(10)
+
+typeof(check)
